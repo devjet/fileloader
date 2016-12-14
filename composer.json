@@ -1,0 +1,11 @@
+{
+  "name": "devjet/fileloader",
+  "type": "package",
+  "autoload": {
+    "psr-4": {
+      "devjet\\fileloader\\": "src"
+    }
+  },
+  "license": "MIT",
+  "require": {}
+}
