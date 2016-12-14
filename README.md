@@ -17,7 +17,7 @@ composer init
 composer require "devjet/fileloader":"dev-master"
 ``
 
-* create index file with following example:
+* create [webroot]/public/index.php file with following code example:
 ```php
 <?php
 
